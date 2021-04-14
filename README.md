@@ -1,7 +1,7 @@
 # Barbearia_Alura
 
 
-Projeto de curso de HTML, CSS, HTML em 4 módulos.<br/>
+Projeto de curso de HTML e CSS em 4 módulos.<br/>
 
 Nesse projeto, onde inicio aqui meus estudos de programação, aprendi uma serie de coisas <br/>
 

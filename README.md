@@ -22,7 +22,7 @@ Separar o conteúdo da página utilizando a tag "body"
 Divisão de conteúdo com a tag "div"
 
 A criar um formulário HTML "form"
-A tag <input>, para a entrada de dados do usuário
+A tag "input", para a entrada de dados do usuário
 A criar uma etiqueta para o input, com a tag "label"
 A conectar um input com o seu label
 Colocamos um id para o input e associamos esse id ao atributo for do label
@@ -45,7 +45,7 @@ Apresentação dos textos:
 -tamanho da fonte (font-size)
 -cor de fundo (background)
 -cor do texto (color)
-tag <style>
+-tag "style"
 
 Utilizar identificadores para marcar especificamente um elemento
 Adicionando imagem
@@ -63,7 +63,7 @@ Remover decoração do texto (útil para o href) text-decoration: none.
 Como funciona os posicionamentos static, relative e absolute dos elementos;
 Como remover os estilos que o navegador cria automaticamente (reset.css).
 
-A tag <main>, para o conteúdo principal da nossa página
+A tag "main", para o conteúdo principal da nossa página
 A criar listas complexas, com títulos, imagens e parágrafos
 A utilizar o inline-block
 A praticar e estilizar o conteúdo principal da nossa página

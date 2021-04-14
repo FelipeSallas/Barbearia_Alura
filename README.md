@@ -7,7 +7,7 @@ Nesse projeto, onde inicio aqui meus estudos de programação, aprendi uma serie
 
 Em relação ao HTML, foram os seguintes aprendizados:<br/>
 
-Defininindo título e parágrados de um texto com "h1" e "p"<br/>
+Definindo título e parágrafos de um texto com "h1" e "p"<br/>
 Dar destaque com negrito usando a tag "strong"<br/>
 Como dar ênfase usando a tag itálico "em"<br/>
 
@@ -49,7 +49,7 @@ Apresentação dos textos:<br/>
 
 Utilizar identificadores para marcar especificamente um elemento<br/>
 Adicionando imagem<br/>
-Ajustar a altra do elemento, usando (heigth)<br/>
+Ajustar a altura do elemento, usando (heigth)<br/>
 Ajudar a largura do elemento usando (width)<br/>
 Espaçamento interno do elemento (padding)<br/>
 Espaçamento externo do elemento (margin)<br/><br/>
@@ -58,7 +58,7 @@ Classes no CSS, marcar itens, mas são repetíveis<br/>
 Comportamento block e inline (display)<br/>
 Use class para tudo.<br/><br/><br/>
 
-Remover decoração do texto (útil para o href) text-decoration: none.<br/><br/>
+Remover a decoração do texto (útil para o href) text-decoration: none.<br/><br/>
 
 Como funciona os posicionamentos static, relative e absolute dos elementos;<br/>
 Como remover os estilos que o navegador cria automaticamente (reset.css).<br/>

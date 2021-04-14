@@ -7,23 +7,23 @@ Nesse projeto, onde inicio aqui meus estudos de programação, aprendi uma serie
 
 Em relação ao HTML, foram os seguintes aprendizados:
 
-Defininindo título e parágrados de um texto com <h1> e <p>
+Defininindo título e parágrados de um texto com "<h1>" e "<p>"
 Dar destaque com negrito usando a tag <strong>
 Como dar ênfase usando a tag itálico <em>
 
 Estrutura básica do HTML.
-Tag <!doctype html>;
+Tag "<!doctype html>";
 tag <html> e definindo a linguagem com a propriedade lang;
 Como passar as informações do encoding da página com a tag <meta> e com a propriedade charset;
-Definindo o título da página através da tag <title>;
-Separar as informações usando a tag <head>;
+Definindo o título da página através da tag "<title>";
+Separar as informações usando a tag "<head>";
 Separar o conteúdo da página utilizando a tag <body>
 
-Divisão de conteúdo com a tag <div>
+Divisão de conteúdo com a tag "<div>"
 
-A criar um formulário HTML <form>
+A criar um formulário HTML "<form>
 A tag <input>, para a entrada de dados do usuário
-A criar uma etiqueta para o input, com a tag <label>
+A criar uma etiqueta para o input, com a tag "<label>
 A conectar um input com o seu label
 Colocamos um id para o input e associamos esse id ao atributo for do label
 Alguns tipos de input, como text e submit
